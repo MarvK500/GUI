@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# STM32CubeIDE / Eclipse workspace state and build output
+.metadata/
+Debug/
+Release/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Local Claude Code settings
+.claude/settings.local.json
+CLAUDE.md
